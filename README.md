@@ -3,7 +3,7 @@ A sample of projects made by Josh Garry.
 
 
 ## Resume
-A short rundown of some of the experiance, education, skills and interests.
+A short rundown of some experiance, education, skills and interests.
 
 
 ## Undergraduate Disertation
