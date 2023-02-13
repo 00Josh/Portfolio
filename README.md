@@ -2,6 +2,10 @@
 A sample of projects made by Josh Garry.
 
 
+## Resume
+A short rundown of some of the experiance, education, skills and interests.
+
+
 ## Undergraduate Disertation
 ### Asset Classification with Deep Learning from Computer Added Design Parts
 A dissertation submitted by Joshua Garry in the fulfilment of the requirements of ENG4112 Research Project towards the degree of Bachelor of Engineering Mechanical Submitted: October, 2022
