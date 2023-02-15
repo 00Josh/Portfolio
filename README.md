@@ -1,5 +1,6 @@
 # Portfolio
-A sample of projects made by Josh Garry.
+A sample of projects made by Josh Garry. 
+Click on the headers to see the full resource.
 
 
 ## [Resume](https://github.com/00Josh/Portfolio/blob/main/Josh%20Garry%20Resume.pdf)
@@ -16,8 +17,12 @@ In this project an industrial client focused method for asset classification is 
 
 ## [DSM Capability Statement](https://github.com/00Josh/Portfolio/blob/main/DSM%20Capability%20Statement.pdf)
 Wrote, collaborated with external graphic designers and arranged for printing of capability statement for DSM in time for a trade show. This is a 12 page document effectively communicating DSM’s strengths and competitive advantages for the purpose of increasing revenue ith contract jobs.
-![CB](https://github.com/00Josh/Portfolio/blob/main/DSM%20Capability%20Statement.pdf)
 
 
 ## [UAV Aerial Recovery Challenge 2017](https://uavchallenge.org/2017/09/27/joint-winners-of-the-2017-queensland-government-airborne-delivery-challenge)
 Joint team winner of the international UAV aerial recovery high-school challenge ($5500 winnings).
+
+## [Code Tool](https://github.com/00Josh/Portfolio/raw/main/Janke_Code_Tool_Setup.exe)
+Coded a graphical user interfaced tool to help code and decode internal company part codes to assist the drafting and manufacturing and sales teams. This was developed in Python, exported as an .exe installer and could be deployed on any Windows compuer.
+![UI Example 1](Code Tool Materials.jpg)
+
