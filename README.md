@@ -16,6 +16,7 @@ In this project an industrial client focused method for asset classification is 
 
 ## [DSM Capability Statement](https://github.com/00Josh/Portfolio/blob/main/DSM%20Capability%20Statement.pdf)
 Wrote, collaborated with external graphic designers and arranged for printing of capability statement for DSM in time for a trade show. This is a 12 page document effectively communicating DSM’s strengths and competitive advantages for the purpose of increasing revenue ith contract jobs.
+![](https://github.com/00Josh/Portfolio/blob/main/DSM%20Capability%20Statement.pdf)
 
 
 ## [UAV Aerial Recovery Challenge 2017](https://uavchallenge.org/2017/09/27/joint-winners-of-the-2017-queensland-government-airborne-delivery-challenge)
