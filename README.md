@@ -32,7 +32,7 @@ Coded a graphical user interfaced tool to help code and decode internal company 
 ![UI Example 2](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Fasteners.jpg)
 ![UI Example 3](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Powder%20Coating.jpg)
 
-## Work Shop Experiance
+## Work Shop Experience
 Samples of work while working as a trades assisent for Bettabuilt Fabrication doing jobs such as;
 * Welding, 
 – MIG DC and pulse
