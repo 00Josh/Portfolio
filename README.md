@@ -47,6 +47,7 @@ Samples of work while working as a trades assisent for Bettabuilt Fabrication do
 Custom Sheet Metal Punch Guard;
 ![WS Sample 6](https://github.com/00Josh/Portfolio/blob/main/Custom%20Sheet%20Metal%20Punch%20Guard.jpg)
 
+Pulsed MIG welding samples;
 ![WS Sample 1](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%202.jpg)
 ![WS Sample 2](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%203.jpg)
 ![WS Sample 3](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%204.jpg)
