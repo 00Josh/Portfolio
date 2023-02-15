@@ -39,10 +39,14 @@ Samples of work while working as a trades assisent for Bettabuilt Fabrication do
 – beam and rafter assemblies
 – roller door tracks
 – railings
+
+[Video of a tight round weld](https://github.com/00Josh/Portfolio/raw/main/Welding%20Sample%201.mp4)
+
+[Video of a working pin Taper linishing guide](https://github.com/00Josh/Portfolio/raw/main/Pin%20Taper%20Linishing%20Guide.mp4)
+
 ![WS Sample 1](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%202.jpg)
 ![WS Sample 2](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%203.jpg)
 ![WS Sample 3](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%204.jpg)
 ![WS Sample 4](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%205.jpg)
 ![WS Sample 5](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%206.jpg)
-[Video of a tight round weld](https://github.com/00Josh/Portfolio/raw/main/Welding%20Sample%201.mp4)
-[Video of a working pin Taper linishing guide](https://github.com/00Josh/Portfolio/raw/main/Pin%20Taper%20Linishing%20Guide.mp4)
+
