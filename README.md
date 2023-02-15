@@ -21,6 +21,8 @@ Wrote, collaborated with external graphic designers and arranged for printing of
 
 ## [UAV Aerial Recovery Challenge 2017](https://uavchallenge.org/2017/09/27/joint-winners-of-the-2017-queensland-government-airborne-delivery-challenge)
 Joint team winner of the international UAV aerial recovery high-school challenge ($5500 winnings).
+![Team Photo](https://github.com/00Josh/Portfolio/blob/main/UAV%20Challenge%20Winners%20Team%20Photo.jpg)
+
 
 ## [Code Tool](https://github.com/00Josh/Portfolio/raw/main/Janke_Code_Tool_Setup.exe)
 Coded a graphical user interfaced tool to help code and decode internal company part codes to assist the drafting and manufacturing and sales teams. This was developed in Python, exported as an .exe installer and could be deployed on any Windows compuer.
@@ -28,4 +30,19 @@ Coded a graphical user interfaced tool to help code and decode internal company 
 ![UI Example 2](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Fasteners.jpg)
 ![UI Example 3](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Powder%20Coating.jpg)
 
-
+## Work Shop Experiance
+Samples of work while working as a trades assisent for Bettabuilt Fabrication doing jobs such as;
+* Welding, 
+– MIG DC and pulse
+– stick
+* Fabricating (tacking out)
+– beam and rafter assemblies
+– roller door tracks
+– railings
+![WS Sample 1](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%202.jpg)
+![WS Sample 2](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%203.jpg)
+![WS Sample 3](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%204.jpg)
+![WS Sample 4](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%205.jpg)
+![WS Sample 5](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%206.jpg)
+[Video of a tight round weld](https://github.com/00Josh/Portfolio/raw/main/Welding%20Sample%201.mp4)
+[Video of a working pin Taper linishing guide](https://github.com/00Josh/Portfolio/raw/main/Pin%20Taper%20Linishing%20Guide.mp4)
