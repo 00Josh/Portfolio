@@ -25,7 +25,7 @@ Joint team winner of the international UAV aerial recovery high-school challenge
 
 
 ## [Code Tool](https://github.com/00Josh/Portfolio/raw/main/Janke_Code_Tool_Setup.exe)
-Coded a graphical user interfaced tool to help code and decode internal company part codes to assist the drafting and manufacturing and sales teams. This was developed in Python, exported as an .exe installer and could be deployed on any Windows compuer.
+Coded a graphical user interfaced tool to help code and decode internal company part codes to assist the drafting and manufacturing and sales teams. This was developed in Python, exported as an .exe installer and could be deployed on any Windows compuer ([downownload and install](https://github.com/00Josh/Portfolio/raw/main/Janke_Code_Tool_Setup.exe)).
 ![UI Example 1](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Materials.jpg)
 ![UI Example 2](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Fasteners.jpg)
 ![UI Example 3](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Powder%20Coating.jpg)
