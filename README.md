@@ -2,7 +2,7 @@
 A sample of projects made by Josh Garry. 
 
 
-***Click on the headers to see the full resource.***
+> ***Click on the headers to see the full resource.***
 
 
 ## [Resume](https://github.com/00Josh/Portfolio/blob/main/Josh%20Garry%20Resume.pdf)
