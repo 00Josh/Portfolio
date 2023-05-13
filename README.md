@@ -9,6 +9,9 @@ A sample of projects made by Josh Garry.
 A short rundown of some experiance, education, skills and interests.
 
 
+## [Bachelor of Engineering](https://www.myequals.net/sharelink/f7a67bdb-6d5a-48e8-821d-3baf1df4a5be/599b25ab-e155-464f-b78f-c159cfa5abb3)
+Testamur issued by University of Southern Queensland awarding a Bachelor of Engineering.
+
 ## [Undergraduate Disertation](https://github.com/00Josh/Portfolio/blob/main/Garry_J_Low.pdf)
 ### Asset Classification with Deep Learning from Computer Added Design Parts
 A dissertation submitted by Joshua Garry in the fulfilment of the requirements of ENG4112 Research Project towards the degree of Bachelor of Engineering Mechanical Submitted: October, 2022
