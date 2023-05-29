@@ -59,8 +59,9 @@ The assignment question gave three hand drawn feild notes from the serveuyor of 
 ![Produced Result](https://raw.githubusercontent.com/00Josh/Portfolio/main/Surveying%20Example%20Output.jpg)
 
 ## [Matrix Truss Solver Script](https://github.com/00Josh/Portfolio/blob/main/matrix_truss_solver.m)
-This is a simple script I made when I was studying MEC3302 Computational Mechanics in Design (USQ's FEA course) as a personal side project. This shows a firm understanding of the stiffness method used in calculating simple nodal sytems of load trnasfer. I also made a [local beam script](https://github.com/00Josh/Portfolio/blob/main/beam_with_moments.m) using the cartesian force and displacment.
+This is a simple Matlab script I made when I was studying MEC3302 Computational Mechanics in Design (USQ's FEA course) as a personal side project. This shows a firm understanding of the stiffness method used in calculating simple nodal sytems of load trnasfer. I also made a [local beam script](https://github.com/00Josh/Portfolio/blob/main/beam_with_moments.m) using the cartesian force and displacment.
 
+![Matlab Stiffness Function](https://raw.githubusercontent.com/00Josh/Portfolio/main/2d%20Truss%20Solver.jpg)
 
 ## Work Shop Experience
 Samples of work while working as a trades assisent for Bettabuilt Fabrication doing jobs such as;
