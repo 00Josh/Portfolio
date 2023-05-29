@@ -5,6 +5,9 @@ A sample of projects made by Josh Garry.
 > ***Click on the headers to see the full resource.***
 
 
+---
+
+
 ## [Resume](https://github.com/00Josh/Portfolio/blob/main/Josh%20Garry%20Resume.pdf)
 A short rundown of some experiance, education, skills and interests.
 
@@ -26,7 +29,8 @@ Modified and amalgamated two iterations of previous design for the Top Country R
 
 
 ## [DSM Capability Statement](https://github.com/00Josh/Portfolio/blob/main/DSM%20Capability%20Statement.pdf)
-Wrote, collaborated with external graphic designers and arranged for printing of capability statement for DSM in time for a trade show. This is a 12 page document effectively communicating DSM’s strengths and competitive advantages for the purpose of increasing revenue ith contract jobs.
+Wrote, collaborated with external graphic designers and arranged for printing of capability statement for DSM in time for a trade show. This is a 12 page document effectively communicating DSM’s strengths and competitive advantages for the purpose of increasing revenue by contract jobs.
+
 ![Cover](https://raw.githubusercontent.com/00Josh/Portfolio/main/DSM%20Capability%20Statement%20Cover.jpg)
 
 
