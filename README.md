@@ -70,7 +70,7 @@ This is a simple Matlab script I made when I was studying MEC3302 Computational 
 ## [Advance Steel](https://github.com/00Josh/Portfolio/blob/main/Advance%20Steel%20Example.png?raw=true)
 An example of a structure made in Autodesk Advance Steel 2023.
 
-![Example](\https://github.com/00Josh/Portfolio/blob/main/Advance%20Steel%20Example.png?raw=true)
+![Example](https://github.com/00Josh/Portfolio/blob/main/Advance%20Steel%20Example.png?raw=true)
 
 
 ## Work Shop Experience
