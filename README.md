@@ -22,10 +22,12 @@ In this project an industrial client focused method for asset classification is 
 
 ## [Design Consultancy Work](https://topcountry.com.au/feeding-systems/ration-runner)
 Modified and amalgamated two iterations of previous design for the Top Country Ration-Runner as a consultancy job while working for Janke Australia. 
+![Ration Runner](https://topcountry.com.au/wp-content/uploads/2021/11/IMG_0388-1024x768.jpg)
 
 
 ## [DSM Capability Statement](https://github.com/00Josh/Portfolio/blob/main/DSM%20Capability%20Statement.pdf)
 Wrote, collaborated with external graphic designers and arranged for printing of capability statement for DSM in time for a trade show. This is a 12 page document effectively communicating DSM’s strengths and competitive advantages for the purpose of increasing revenue ith contract jobs.
+![Cover](https://raw.githubusercontent.com/00Josh/Portfolio/main/DSM%20Capability%20Statement%20Cover.jpg)
 
 
 ## [UAV Aerial Recovery Challenge 2017](https://uavchallenge.org/2017/09/27/joint-winners-of-the-2017-queensland-government-airborne-delivery-challenge)
@@ -41,6 +43,9 @@ Coded a graphical user interfaced tool to help code and decode internal company 
 ![UI Example 1](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Materials.jpg)
 ![UI Example 2](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Fasteners.jpg)
 ![UI Example 3](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Powder%20Coating.jpg)
+
+## (Robitcs and Machine Vision Assignment](https://youtu.be/J7Bub6kBJvM)
+
 
 ## Work Shop Experience
 Samples of work while working as a trades assisent for Bettabuilt Fabrication doing jobs such as;
