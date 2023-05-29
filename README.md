@@ -40,18 +40,12 @@ Coded a graphical user interfaced tool to help code and decode internal company 
 
 [Download and Install](https://github.com/00Josh/Portfolio/raw/main/Janke_Code_Tool_Setup.exe)
 
-<div align="center">
-  <img src="[photo1.jpg](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Materials.jpg)" alt="Photo 1" width="300">
-  <img src="[photo2.jpg](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Fasteners.jpg)" alt="Photo 2" width="300">
-  <img src="[photo3.jpg](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Powder%20Coating.jpg)" alt="Photo 3" width="300">
-</div>
+![User Interface](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool.jpg)
 
-![UI Example 1](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Materials.jpg)
-![UI Example 2](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Fasteners.jpg)
-![UI Example 3](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Powder%20Coating.jpg)
-
-## (Robitcs and Machine Vision Assignment](https://youtu.be/J7Bub6kBJvM)
-
+## (Robitcs and Machine Vision Assignment (Link)](https://youtu.be/J7Bub6kBJvM)
+An assignment from MEC4406 Robitcs and Machine Vision where simple image manipulation was used to program the behavyor of two soccer robots. One reobot would be offensice while the other played as a goalie.
+**https://youtu.be/J7Bub6kBJvM**
+![YouTube Video Screenshot](https://raw.githubusercontent.com/00Josh/Portfolio/main/Machine%20Vision%20Robitics%20Sim%20Assignment.jpg)
 
 ## Work Shop Experience
 Samples of work while working as a trades assisent for Bettabuilt Fabrication doing jobs such as;
