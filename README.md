@@ -42,7 +42,7 @@ Coded a graphical user interfaced tool to help code and decode internal company 
 
 ![User Interface](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool.jpg)
 
-## (Robitcs and Machine Vision Assignment (Link)](https://youtu.be/J7Bub6kBJvM)
+## [Robitcs and Machine Vision Assignment (Link)](https://youtu.be/J7Bub6kBJvM)
 An assignment from MEC4406 Robitcs and Machine Vision where simple image manipulation was used to program the behavyor of two soccer robots. One reobot would be offensice while the other played as a goalie.
 **https://youtu.be/J7Bub6kBJvM**
 ![YouTube Video Screenshot](https://raw.githubusercontent.com/00Josh/Portfolio/main/Machine%20Vision%20Robitics%20Sim%20Assignment.jpg)
