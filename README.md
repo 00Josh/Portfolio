@@ -40,6 +40,12 @@ Coded a graphical user interfaced tool to help code and decode internal company 
 
 [Download and Install](https://github.com/00Josh/Portfolio/raw/main/Janke_Code_Tool_Setup.exe)
 
+<div align="center">
+  <img src="[photo1.jpg](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Materials.jpg)" alt="Photo 1" width="300">
+  <img src="[photo2.jpg](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Fasteners.jpg)" alt="Photo 2" width="300">
+  <img src="[photo3.jpg](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Powder%20Coating.jpg)" alt="Photo 3" width="300">
+</div>
+
 ![UI Example 1](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Materials.jpg)
 ![UI Example 2](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Fasteners.jpg)
 ![UI Example 3](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool%20Powder%20Coating.jpg)
