@@ -35,7 +35,7 @@ Wrote, collaborated with external graphic designers and arranged for printing of
 
 
 ## [UAV Aerial Recovery Challenge 2017](https://uavchallenge.org/2017/09/27/joint-winners-of-the-2017-queensland-government-airborne-delivery-challenge)
-Joint team winner of the international UAV aerial recovery high-school challenge ($5500 winnings). [Here](https://github.com/00Josh/Portfolio/raw/main/UAV%20Challenge%20Target%20Practice%20Clip.mp4) is us doing target practice befor the event.
+Joint team winner of the international UAV aerial recovery high-school challenge ($5500 winnings). [Here](https://github.com/00Josh/Portfolio/raw/main/UAV%20Challenge%20Target%20Practice%20Clip.mp4) is us doing target practice before the event.
 
 ![Team Photo](https://github.com/00Josh/Portfolio/blob/main/UAV%20Challenge%20Winners%20Team%20Photo.jpg)
 ![Our Drone Configeration](https://github.com/00Josh/Portfolio/blob/main/UAV%20Chalenge%20Drone%20Configeration.jpg?raw=true)
