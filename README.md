@@ -7,7 +7,7 @@ A sample of projects made by Josh Garry.
 
 
 ## [Resume](https://github.com/00Josh/Portfolio/blob/main/Josh%20Garry%20Resume.pdf)
-A short rundown of some experiance, education, skills and interests.
+A short rundown of some experience, education, skills and interests.
 
 
 ## [Bachelor of Engineering](https://www.myequals.net/sharelink/f7a67bdb-6d5a-48e8-821d-3baf1df4a5be/599b25ab-e155-464f-b78f-c159cfa5abb3)
@@ -15,12 +15,12 @@ Testamur issued by University of Southern Queensland awarding a Bachelor of Engi
 
 ## [Undergraduate Disertation](https://github.com/00Josh/Portfolio/blob/main/Garry_J_Low.pdf)
 ### Asset Classification with Deep Learning from Computer Added Design Parts
-A dissertation submitted by Joshua Garry in the fulfilment of the requirements of ENG4112 Research Project towards the degree of Bachelor of Engineering Mechanical Submitted: October, 2022
+A dissertation submitted by Joshua Garry in the fulfillment of the requirements of ENG4112 Research Project towards the degree of Bachelor of Engineering Mechanical Submitted: October, 2022
 
 
 
 ### Abstract
-In this project an industrial client focused method for asset classification is proposed; where the output of a machine learning algorithm can identify the CAD model corresponding to the subject of the image input. This method aims to use a per part identification system based on the client’s own database as opposed to the norm of general categorical identification. Part of this study also aims to assess the feasibility of the image rendering process used to procure the proposed client machine learning dataset. This dataset would then be used to train a lightweight convolutional neural network model in such a way that could be replicated by an end client. The application of using transfer learning from previously trained models to reduce the training time is also explored. This involved training multiple iterations of classification models and using them as well as existing models from the Google Keras and Tensorflow framework for machine learning. The main test model was made with the base model attached to a head consisting of dense neural network layers. This produced a best result of 13.75 percent accuracy and 18.75 with fine tuning enabled with the Keras ResNet50 model as the transfer learning base. This was also tested on a real world sample set of images to identify if the model could return a relevant result within the top three returned results. This yielded a best result of 55.55 percent accuracy with the model trained with the ResNet50 base, however only 33.33 percent with the same model that had further fine tuning. This in combination with a visual assessment of retuned results, gives rise to the main findings that the most influential factor for success in implementing this technique, is the selection of the pretrained model base; as well as the assertion that finetuning may increase the accuracy on the rendered results yet decrease the context transferability that is incorporated into a pretrained model.
+In this project an industrial client focused method for asset classification is proposed; where the output of a machine learning algorithm can identify the CAD model corresponding to the subject of the image input. This method aims to use a per part identification system based on the client’s own database as opposed to the norm of general categorical identification. Part of this study also aims to assess the feasibility of the image rendering process used to procure the proposed client machine learning dataset. This dataset would then be used to train a lightweight convolutional neural network model in such a way that could be replicated by an end client. The application of using transfer learning from previously trained models to reduce the training time is also explored. This involved training multiple iterations of classification models and using them as well as existing models from the Google Keras and Tensorflow framework for machine learning. The main test model was made with the base model attached to a head consisting of dense neural network layers. This produced a best result of 13.75 percent accuracy and 18.75 with fine tuning enabled with the Keras ResNet50 model as the transfer learning base. This was also tested on a real world sample set of images to identify if the model could return a relevant result within the top three returned results. This yielded a best result of 55.55 percent accuracy with the model trained with the ResNet50 base, however only 33.33 percent with the same model that had further fine tuning. This in combination with a visual assessment of retuned results, gives rise to the main findings that the most influential factor for success in implementing this technique, is the selection of the pretrained model base; as well as the assertion that fine tuning may increase the accuracy on the rendered results yet decrease the context transferability that is incorporated into a pretrained model.
 
 
 ## [Design Consultancy Work](https://topcountry.com.au/feeding-systems/ration-runner)
@@ -51,19 +51,19 @@ Coded a graphical user interfaced tool to help code and decode internal company 
 ![User Interface](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool.jpg)
 
 ## [Robitcs and Machine Vision Assignment (YouTube Link)](https://youtu.be/J7Bub6kBJvM)
-An assignment from MEC4406 Robitcs and Machine Vision where simple image manipulation was used to program the behavyor of two soccer robots. One reobot would be offensice while the other played as a goalie.
+An assignment from MEC4406 Robotics and Machine Vision where simple image manipulation was used to program the behavior of two soccer robots. One robot would be offensive while the other played as a goalie.
 **https://youtu.be/J7Bub6kBJvM**
 ![YouTube Video Screenshot](https://raw.githubusercontent.com/00Josh/Portfolio/main/Machine%20Vision%20Robitics%20Sim%20Assignment.jpg)
 
 
 ## [AutoCad Survey Reading Assignment Excerpt](https://raw.githubusercontent.com/00Josh/Portfolio/main/Export_photo_1.jpg)
-The assignment question gave three hand drawn feild notes from the serveuyor of the points of various objects in 2D. The below was preduced by AutoCad 2d.
+The assignment question gave three hand drawn field notes from the surveyor of the points of various objects in 2D. The below was produced by AutoCAD 2d.
 
 ![Given Survey Information](https://raw.githubusercontent.com/00Josh/Portfolio/main/Surveying%20Example.jpg)
 ![Produced Result](https://raw.githubusercontent.com/00Josh/Portfolio/main/Surveying%20Example%20Output.jpg)
 
 ## [Matrix Truss Solver Script](https://github.com/00Josh/Portfolio/blob/main/matrix_truss_solver.m)
-This is a simple Matlab script I made when I was studying MEC3302 Computational Mechanics in Design (USQ's FEA course) as a personal side project. This shows a firm understanding of the stiffness method used in calculating simple nodal sytems of load trnasfer. I also made a [local beam script](https://github.com/00Josh/Portfolio/blob/main/beam_with_moments.m) using the cartesian force and displacment.
+This is a simple Matlab script I made when I was studying MEC3302 Computational Mechanics in Design (USQ's FEA course) as a personal side project. This shows a firm understanding of the stiffness method used in calculating simple nodal systems of load transfer. I also made a [local beam script](https://github.com/00Josh/Portfolio/blob/main/beam_with_moments.m) using the caesarian force and displacement.
 
 ![Matlab Stiffness Function](https://raw.githubusercontent.com/00Josh/Portfolio/main/2d%20Truss%20Solver.jpg)
 
