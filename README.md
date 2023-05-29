@@ -25,6 +25,8 @@ In this project an industrial client focused method for asset classification is 
 
 ## [Design Consultancy Work](https://topcountry.com.au/feeding-systems/ration-runner)
 Modified and amalgamated two iterations of previous design for the Top Country Ration-Runner as a consultancy job while working for Janke Australia. 
+
+![CAD](https://github.com/00Josh/Portfolio/blob/main/Ration%20Runner%20Design.jpg?raw=true)
 ![Ration Runner](https://topcountry.com.au/wp-content/uploads/2021/11/IMG_0388-1024x768.jpg)
 
 
