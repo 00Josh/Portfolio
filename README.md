@@ -72,10 +72,19 @@ This is a simple Matlab script I made when I was studying MEC3302 Computational 
 
 ![Matlab Stiffness Function](https://raw.githubusercontent.com/00Josh/Portfolio/main/2d%20Truss%20Solver.jpg)
 
-## [Advance Steel](https://github.com/00Josh/Portfolio/blob/main/Advance%20Steel%20Example.png?raw=true)
+## Advance Steel Examples
 An example of a structure made in Autodesk Advance Steel 2023.
 
-![Example](https://github.com/00Josh/Portfolio/blob/main/Advance%20Steel%20Example.png?raw=true)
+![Example 1](https://raw.githubusercontent.com/00Josh/Portfolio/main/Advance%20Steel%20Example%20Cabin%20with%20Steel%20Wall%20Framing.png)
+![Example 2](https://github.com/00Josh/Portfolio/blob/main/Advance%20Steel%20Example.png?raw=true)
+
+
+## FrameCAD Example
+FrameCAD is a software package used in conjuction with a CNC rolforming mill to automate steel wall framing production. The software can do 2D FEA as well as work with AutoCAD to add walls to structures. The rollforming machines make the c-sections from coil steel that is fed through rollers. 
+
+![FrameCAD EG 1](https://raw.githubusercontent.com/00Josh/Portfolio/main/FrameCAD%20Example%201.png)
+![FrameCAD EG 2](https://raw.githubusercontent.com/00Josh/Portfolio/main/FrameCAD%20Example%202.png)
+![FrameCAD EG 3](https://raw.githubusercontent.com/00Josh/Portfolio/main/FrameCAD%20Example%203%20Steel%20Wall%20Framing.png)
 
 
 ## Work Shop Experience
@@ -90,7 +99,7 @@ Samples of work while working as a trades assisent for Bettabuilt Fabrication do
 
 [Video of a tight round weld](https://github.com/00Josh/Portfolio/raw/main/Welding%20Sample%201.mp4)
 
-[Video of a working pin Taper linishing guide](https://github.com/00Josh/Portfolio/raw/main/Pin%20Taper%20Linishing%20Guide.mp4)
+[Video of a working pin taper linishing guide](https://github.com/00Josh/Portfolio/raw/main/Pin%20Taper%20Linishing%20Guide.mp4)
 
 Custom Sheet Metal Punch Guard;
 ![WS Sample 6](https://github.com/00Josh/Portfolio/blob/main/Custom%20Sheet%20Metal%20Punch%20Guard.jpg)
@@ -101,4 +110,7 @@ Pulsed MIG welding samples;
 ![WS Sample 3](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%204.jpg)
 ![WS Sample 4](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%205.jpg)
 ![WS Sample 5](https://github.com/00Josh/Portfolio/blob/main/Welding%20Sample%206.jpg)
+
+Oxy Cutting Sample:
+![Oxy Cutting Sample](https://raw.githubusercontent.com/00Josh/Portfolio/main/Oxzy%20Cut.jpg)
 
