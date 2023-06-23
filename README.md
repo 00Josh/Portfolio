@@ -50,6 +50,11 @@ Coded a graphical user interfaced tool to help code and decode internal company 
 
 ![User Interface](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool.jpg)
 
+## [Thermal Analysis Assignment Example](https://github.com/00Josh/Portfolio/blob/main/thermal_simulation_assignment.py)
+For an Advanced Termodynamics course assignment requring an analysis a verticaly simetrical plate that is simulated through the cross section in steady state. This is in the form of a Python script that can be upscaeled to a finer gridspacing for a better result.
+![Simulation Temp Cross Section](https://raw.githubusercontent.com/00Josh/Portfolio/main/thermal_simulation.png)
+
+
 ## [Robotics and Machine Vision Assignment (YouTube Link)](https://youtu.be/J7Bub6kBJvM)
 An assignment from MEC4406 Robotics and Machine Vision where simple image manipulation was used to program the behavior of two soccer robots. One robot would be offensive while the other played as a goalie.
 **https://youtu.be/J7Bub6kBJvM**
