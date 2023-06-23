@@ -13,14 +13,14 @@ A short rundown of some experience, education, skills and interests.
 ## [Bachelor of Engineering](https://www.myequals.net/sharelink/f7a67bdb-6d5a-48e8-821d-3baf1df4a5be/599b25ab-e155-464f-b78f-c159cfa5abb3)
 Testamur issued by University of Southern Queensland awarding a Bachelor of Engineering.
 
-## [Undergraduate Disertation](https://github.com/00Josh/Portfolio/blob/main/Garry_J_Low.pdf)
+## [Undergraduate Dissertation](https://github.com/00Josh/Portfolio/blob/main/Garry_J_Low.pdf)
 ### Asset Classification with Deep Learning from Computer Added Design Parts
 A dissertation submitted by Joshua Garry in the fulfillment of the requirements of ENG4112 Research Project towards the degree of Bachelor of Engineering Mechanical Submitted: October, 2022
 
 
 
 ### Abstract
-In this project an industrial client focused method for asset classification is proposed; where the output of a machine learning algorithm can identify the CAD model corresponding to the subject of the image input. This method aims to use a per part identification system based on the client’s own database as opposed to the norm of general categorical identification. Part of this study also aims to assess the feasibility of the image rendering process used to procure the proposed client machine learning dataset. This dataset would then be used to train a lightweight convolutional neural network model in such a way that could be replicated by an end client. The application of using transfer learning from previously trained models to reduce the training time is also explored. This involved training multiple iterations of classification models and using them as well as existing models from the Google Keras and Tensorflow framework for machine learning. The main test model was made with the base model attached to a head consisting of dense neural network layers. This produced a best result of 13.75 percent accuracy and 18.75 with fine tuning enabled with the Keras ResNet50 model as the transfer learning base. This was also tested on a real world sample set of images to identify if the model could return a relevant result within the top three returned results. This yielded a best result of 55.55 percent accuracy with the model trained with the ResNet50 base, however only 33.33 percent with the same model that had further fine tuning. This in combination with a visual assessment of retuned results, gives rise to the main findings that the most influential factor for success in implementing this technique, is the selection of the pretrained model base; as well as the assertion that fine tuning may increase the accuracy on the rendered results yet decrease the context transferability that is incorporated into a pretrained model.
+In this project an industrial client focused method for asset classification is proposed; where the output of a machine learning algorithm can identify the CAD model corresponding to the subject of the image input. This method aims to use a per part identification system based on the client’s own database as opposed to the norm of general categorical identification. Part of this study also aims to assess the feasibility of the image rendering process used to procure the proposed client machine learning dataset. This dataset would then be used to train a lightweight convolutional neural network model in such a way that could be replicated by an end client. The application of using transfer learning from previously trained models to reduce the training time is also explored. This involved training multiple iterations of classification models and using them as well as existing models from the Google Keras and Tensorflow framework for machine learning. The main test model was made with the base model attached to a head consisting of dense neural network layers. This produced a best result of 13.75 percent accuracy and 18.75 with fine tuning enabled with the Keras ResNet50 model as the transfer learning base. This was also tested on a real world sample set of images to identify if the model could return a relevant result within the top three returned results. This yielded a best result of 55.55 percent accuracy with the model trained with the ResNet50 base, however only 33.33 percent with the same model that had further fine tuning. This in combination with a visual assessment of returned results, gives rise to the main findings that the most influential factor for success in implementing this technique, is the selection of the pretrained model base; as well as the assertion that fine tuning may increase the accuracy on the rendered results yet decrease the context transferability that is incorporated into a pretrained model.
 
 
 ## [Design Consultancy Work](https://topcountry.com.au/feeding-systems/ration-runner)
@@ -44,13 +44,13 @@ Joint team winner of the international UAV aerial recovery high-school challenge
 
 
 ## [Code Tool](https://github.com/00Josh/Portfolio/raw/main/Janke_Code_Tool_Setup.exe)
-Coded a graphical user interfaced tool to help code and decode internal company part codes to assist the drafting and manufacturing and sales teams. This was developed in Python, exported as an .exe installer and could be deployed on any Windows compuer.
+Coded a graphical user interfaced tool to help code and decode internal company part codes to assist the drafting and manufacturing and sales teams. This was developed in Python, exported as an .exe installer and could be deployed on any Windows computer.
 
 [Download and Install](https://github.com/00Josh/Portfolio/raw/main/Janke_Code_Tool_Setup.exe)
 
 ![User Interface](https://github.com/00Josh/Portfolio/blob/main/Code%20Tool.jpg)
 
-## [Robitcs and Machine Vision Assignment (YouTube Link)](https://youtu.be/J7Bub6kBJvM)
+## [Robotics and Machine Vision Assignment (YouTube Link)](https://youtu.be/J7Bub6kBJvM)
 An assignment from MEC4406 Robotics and Machine Vision where simple image manipulation was used to program the behavior of two soccer robots. One robot would be offensive while the other played as a goalie.
 **https://youtu.be/J7Bub6kBJvM**
 ![YouTube Video Screenshot](https://raw.githubusercontent.com/00Josh/Portfolio/main/Machine%20Vision%20Robitics%20Sim%20Assignment.jpg)
