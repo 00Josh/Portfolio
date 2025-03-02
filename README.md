@@ -27,10 +27,10 @@ Desined a purpos build lifting jig for use in a Marian 8050 dragline. This was d
 ![Consept Drawing](https://github.com/00Josh/Portfolio/blob/main/Sync_Motor_Lifting_Jig_Finished.jpg)
 
 
-## [low Profile Excavator Track Frame Load Roller Change out Jig](https://github.com/00Josh/Portfolio/blob/main/Load%20Roller%20Change%20Out%20Jig.png)
+## [low Profile Excavator Track Frame Load Roller Change out Jig](https://github.com/00Josh/Portfolio/blob/main/Load_Roller_Change-out_Jig.png)
 Designed a track frame load roller change out jig to assist the fittment of the load rollers back into the track frame by allowing for translation and rotation of the cradle while using a forklift or tellyhandeler. The design utilises the low cost and hight relative presition of laser cutting to make this reliable and cost effective. This design has had great success and has been adopted in CQ and WA. 
 
-![CAD](https://raw.githubusercontent.com/00Josh/Portfolio/refs/heads/main/Load%20Roller%20Change%20Out%20Jig.png)
+![CAD](https://github.com/00Josh/Portfolio/blob/main/Load_Roller_Change-out_Jig.png)
 
 
 ## [Design Consultancy Work](https://topcountry.com.au/feeding-systems/ration-runner)
