@@ -22,7 +22,8 @@ In this project an industrial client focused method for asset classification is 
 
 
 ## [Dragline Sync Motor Lifting Jig](https://raw.githubusercontent.com/00Josh/Portfolio/refs/heads/main/Finished%20Sync%20Motor%20Lifting%20Jig.jpg)
-
+Desined a purpos build lifting jig for use in a Marian 8050 dragline. This was designed to meet the tight height and space requirments inside the dragline for use with the onboard gartie craness. This conforms to the Lifting Devices standard AS4991 and AS3990.
+![Consept Drawing](https://raw.githubusercontent.com/00Josh/Portfolio/refs/heads/main/Dragline%20Sync%20Motor%20Lifting%20Jig%20Concept.png)
 
 ## [Design Consultancy Work](https://topcountry.com.au/feeding-systems/ration-runner)
 Modified and amalgamated two iterations of previous design for the Top Country Ration-Runner as a consultancy job while working for Janke Australia. 
