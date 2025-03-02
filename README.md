@@ -17,10 +17,11 @@ Testamur issued by University of Southern Queensland awarding a Bachelor of Engi
 ### Asset Classification with Deep Learning from Computer Added Design Parts
 A dissertation submitted by Joshua Garry in the fulfillment of the requirements of ENG4112 Research Project towards the degree of Bachelor of Engineering Mechanical Submitted: October, 2022
 
-
-
 ### Abstract
 In this project an industrial client focused method for asset classification is proposed; where the output of a machine learning algorithm can identify the CAD model corresponding to the subject of the image input. This method aims to use a per part identification system based on the client’s own database as opposed to the norm of general categorical identification. Part of this study also aims to assess the feasibility of the image rendering process used to procure the proposed client machine learning dataset. This dataset would then be used to train a lightweight convolutional neural network model in such a way that could be replicated by an end client. The application of using transfer learning from previously trained models to reduce the training time is also explored. This involved training multiple iterations of classification models and using them as well as existing models from the Google Keras and Tensorflow framework for machine learning. The main test model was made with the base model attached to a head consisting of dense neural network layers. This produced a best result of 13.75 percent accuracy and 18.75 with fine tuning enabled with the Keras ResNet50 model as the transfer learning base. This was also tested on a real world sample set of images to identify if the model could return a relevant result within the top three returned results. This yielded a best result of 55.55 percent accuracy with the model trained with the ResNet50 base, however only 33.33 percent with the same model that had further fine tuning. This in combination with a visual assessment of returned results, gives rise to the main findings that the most influential factor for success in implementing this technique, is the selection of the pretrained model base; as well as the assertion that fine tuning may increase the accuracy on the rendered results yet decrease the context transferability that is incorporated into a pretrained model.
+
+
+## [Dragline Sync Motor Lifting Jig](https://raw.githubusercontent.com/00Josh/Portfolio/refs/heads/main/Finished%20Sync%20Motor%20Lifting%20Jig.jpg)
 
 
 ## [Design Consultancy Work](https://topcountry.com.au/feeding-systems/ration-runner)
@@ -61,7 +62,7 @@ An assignment from MEC4406 Robotics and Machine Vision where simple image manipu
 ![YouTube Video Screenshot](https://raw.githubusercontent.com/00Josh/Portfolio/main/Machine%20Vision%20Robitics%20Sim%20Assignment.jpg)
 
 
-## [AutoCad Survey Reading Assignment Excerpt](https://raw.githubusercontent.com/00Josh/Portfolio/main/Export_photo_1.jpg)
+## [AutoCad Survey Reading Assignment Excerpt](https://github.com/00Josh/Portfolio/blob/main/AutoCAD%20Survey%20Assignment%20Sample.jpg)
 The assignment question gave three hand drawn field notes from the surveyor of the points of various objects in 2D. The below was produced by AutoCAD 2d.
 
 ![Given Survey Information](https://raw.githubusercontent.com/00Josh/Portfolio/main/Surveying%20Example.jpg)
