@@ -24,7 +24,7 @@ In this project an industrial client focused method for asset classification is 
 ## [Dragline Sync Motor Lifting Jig](https://github.com/00Josh/Portfolio/blob/main/Dragline_Sync_Motor_Lifting_Jig_Finished.jpg)
 Desined a purpos build lifting jig for use in a Marian 8050 dragline. This was designed to meet the tight height and space requirments inside the dragline for use with the onboard gartie craness. This conforms to the Lifting Devices standard AS4991 and AS3990.
 
-![]([https://github.com/00Josh/Portfolio/blob/main/Sync_Motor_Lifting_Jig_Finished.jpg](https://github.com/00Josh/Portfolio/blob/main/Dragline_Sync_Motor_Lifting_Jig_Finished.jpg))
+![](https://github.com/00Josh/Portfolio/blob/main/Dragline_Sync_Motor_Lifting_Jig_Finished.jpg))
 
 
 ## [low Profile Excavator Track Frame Load Roller Change out Jig](https://github.com/00Josh/Portfolio/blob/main/Load_Roller_Change-out_Jig.png)
